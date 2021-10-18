@@ -27,6 +27,3 @@ producer/bit wrangler/score programmer/developer/hacker/code monkey/split person
 
     <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!-- markdownlint-enable MD033 -->
-
-
-
