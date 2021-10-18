@@ -25,5 +25,5 @@ producer/bit wrangler/score programmer/developer/hacker/code monkey/split person
 -   💻  ⏐ feel free to fork any of my [public repos](https://github.com/timecode?tab=repositories)
 -   🤩  ⏐ also, feel free to …
 
-    <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+    <a href="https://buymeacoffee.com/timecode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;width: 217px;" ></a>
 <!-- markdownlint-enable MD033 -->
