@@ -17,7 +17,7 @@ producer/bit wrangler/score programmer/developer/hacker/code monkey/split person
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a>
 </p>
 
--   🖥  ⏐ coding: [golang](https://golang.org/), [python](https://www.python.org/)
+-   🖥  ⏐ coding: [rust](https://www.rust-lang.org/), [golang](https://golang.org/), [python](https://www.python.org/)
 -   💾  ⏐ tech: [apple](https://www.apple.com/), [cloudflare](https://www.cloudflare.com/), [aws](https://aws.amazon.com/), [linux](https://www.kernel.org/)
 -   🎛  ⏐ proponent of [gtd](https://gettingthingsdone.com/what-is-gtd/) and [omnifocus](https://www.omnigroup.com/omnifocus)
 -   🚲  ⏐ currently at [Moving Shadow](https://github.com/movingshadow), previously at [Starling Bank](https://github.com/starlingbank)
